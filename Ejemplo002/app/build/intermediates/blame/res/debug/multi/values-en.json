@@ -1,0 +1,198 @@
+[
+    {
+        "outputFile": "C:\\AndroidQ\\Ejemplo002\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 41,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "C:\\AndroidQ\\Ejemplo002\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 561,
+                        "endLine": 15,
+                        "endColumn": 41,
+                        "endOffset": 722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 49,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "C:\\AndroidQ\\Ejemplo002\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 58,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "C:\\AndroidQ\\Ejemplo002\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 45,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "C:\\AndroidQ\\Ejemplo002\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 47,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "C:\\AndroidQ\\Ejemplo002\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 40,
+                    "endOffset": 458
+                },
+                "from": {
+                    "file": "C:\\AndroidQ\\Ejemplo002\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 519,
+                        "endColumn": 40,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 463,
+                    "endColumn": 44,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "C:\\AndroidQ\\Ejemplo002\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 728,
+                        "endColumn": 44,
+                        "endOffset": 768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 52,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "C:\\AndroidQ\\Ejemplo002\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 53,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "C:\\AndroidQ\\Ejemplo002\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 38,
+                    "endOffset": 649
+                },
+                "from": {
+                    "file": "C:\\AndroidQ\\Ejemplo002\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 654,
+                    "endColumn": 39,
+                    "endOffset": 689
+                },
+                "from": {
+                    "file": "C:\\AndroidQ\\Ejemplo002\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 694,
+                    "endColumn": 37,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "C:\\AndroidQ\\Ejemplo002\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 46,
+                    "endOffset": 774
+                },
+                "from": {
+                    "file": "C:\\AndroidQ\\Ejemplo002\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 779,
+                    "endColumn": 56,
+                    "endOffset": 831
+                },
+                "from": {
+                    "file": "C:\\AndroidQ\\Ejemplo002\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            }
+        ]
+    }
+]
